@@ -1,7 +1,5 @@
 # graphiz
 
-Graph traversal algorithm visualisation for BFS and DFS
-
 Currently supports visualising BFS and DFS, creating and deleting vertices, creating and deleting weighted/unweighted edges, custom vertex labels and custom edge weights.
 
 <div align="center">
